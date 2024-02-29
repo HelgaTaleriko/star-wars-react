@@ -1,4 +1,5 @@
 import './App.css';
+import {getApiResourse} from "../../utils/network";
 
 const App = () => {
   return (
