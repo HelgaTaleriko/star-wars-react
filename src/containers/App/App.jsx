@@ -1,10 +1,11 @@
-import './App.css';
-import {getApiResourse} from "../../utils/network";
+
+import './App.module.css';
+import PeoplePage from "../PeoplePage";
 
 const App = () => {
-  return (
-      <h1>Hello</h1>
-  )
+    return (
+        <PeoplePage/>
+    )
 
 }
 
