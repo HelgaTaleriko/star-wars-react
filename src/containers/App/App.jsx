@@ -1,5 +1,4 @@
 
-import './App.module.css';
 import PeoplePage from "../PeoplePage";
 
 const App = () => {

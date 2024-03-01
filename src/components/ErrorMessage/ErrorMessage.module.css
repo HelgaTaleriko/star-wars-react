@@ -1,0 +1,14 @@
+.text{
+    color:var(--color-yellow);
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 15vw;
+    text-shadow: 0 0 1vw white;
+    font-size: var(--font-size-header);
+    line-height: 4vw;
+    -webkit-text-stroke-color: var(--color-yellow);
+    -webkit-text-stroke-width: 0.1vw;
+    -webkit-text-fill-color: transparent;
+
+}
